@@ -2,7 +2,7 @@
 
 Ce sujet comporte deux exercices.
 
-Pour le premier exercice, vous devez écrire une fonction `taille` (voir le PDF ci-joint)
+Pour le premier exercice, vous devez écrire une fonction `onvertir` (voir le PDF ci-joint)
 
 Pour le deuxième, il s'agit de compléter le code fourni.
 
