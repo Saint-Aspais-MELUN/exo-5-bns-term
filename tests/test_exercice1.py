@@ -1,16 +1,5 @@
 from exercices.exercice1 import *
 
-def test_taille():
-    ## Ici le code d'initialisation si nécessaire
-    a = {
-        'F':['B','G'],
-        'B':['A','D'],
-        'A':['',''],
-        'D':['C','E'],
-        'C':['',''],
-        'E':['',''],
-        'G':['','I'],
-        'I':['','H'],
-        'H':['','']
-    }
-    assert taille(a,'F') == 9
+def test_convertir():
+    assert convertir([1, 0, 1, 0, 0, 1, 1]) == 83
+    assert convertir([1, 0, 0, 0, 0, 0, 1, 0]) == 130
